@@ -3,6 +3,7 @@ The project is structured into multiple thresholds, each building upon the previ
 File Structure :
 
 ./src/
+  
   ├── init_database.sql      # SQL script to initialize the database schema
   
   ├── Level_1.sql            # SQL file for Threshold 1 functionality
